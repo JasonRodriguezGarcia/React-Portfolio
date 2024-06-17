@@ -1,0 +1,22 @@
+html {
+    font-size: 62.5%; // 1rem is 10px
+}
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+    font-family: 'montserrat';
+}
+
+body {
+  margin: 0px;
+}
+
+.app {
+    margin-top: 2rem;
+    display: grid;
+    justify-items: center;
+}
