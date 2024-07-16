@@ -30,7 +30,7 @@ export default function() { // props are like parameters
               <FontAwesomeIcon icon="envelope" />
             </div>
 
-            <div className="text">jason@example.com</div>
+            <div className="text">jasonrodriguezempleo@gmail.com</div>
           </div>
 
           <div className="bullet-point-group">
@@ -38,7 +38,7 @@ export default function() { // props are like parameters
               <FontAwesomeIcon icon="map-marked-alt" />
             </div>
 
-            <div className="text">Mashachuches, UT</div>
+            <div className="text">Donostia (Guipuzcoa) Spain</div>
           </div>
         </div>
       </div>

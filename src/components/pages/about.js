@@ -29,6 +29,9 @@ export default function() { // props are like parameters
         elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur
         et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
         commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis
+        <br/>
+        <strong>Si quieres saber más, por favor contacta conmigo en la sección Contact</strong>
+        <br/><strong>If you want to know more, please contact to me in the Contact section</strong>
       </div>
     </div>
   );
