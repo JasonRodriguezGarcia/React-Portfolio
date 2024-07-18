@@ -17,6 +17,8 @@ export default function() { // props are like parameters
       <div className="right-column">
         Programado en React v16.13.1
         <br/>Node.js v14.21.3
+        <br/>Por:
+        <br/>Jason R.G.
         <br/>
         <br/> Maecenas faucibus mollis interdum. Integer posuere erat a ante venenatis
         dapibus posuere velit aliquet. Sed posuere consectetur est at lobortis.
