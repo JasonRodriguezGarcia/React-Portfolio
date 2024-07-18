@@ -15,7 +15,10 @@ export default function() { // props are like parameters
         }}
       />
       <div className="right-column">
-        Maecenas faucibus mollis interdum. Integer posuere erat a ante venenatis
+        Programado en React v16.13.1
+        <br/>Node.js v14.21.3
+        <br/>
+        <br/> Maecenas faucibus mollis interdum. Integer posuere erat a ante venenatis
         dapibus posuere velit aliquet. Sed posuere consectetur est at lobortis.
         Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
         Aenean lacinia bibendum nulla sed consectetur. Maecenas sed diam eget
@@ -23,12 +26,7 @@ export default function() { // props are like parameters
         consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida
         at eget metus. Donec sed odio dui. Cras mattis consectetur purus sit
         amet fermentum. Etiam porta sem malesuada magna mollis euismod. Nulla
-        vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque
-        ornare sem lacinia quam venenatis vestibulum. Duis mollis, est non
-        commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec
-        elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur
-        et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
-        commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis
+        vitae elit libero, a pharetra augue.
         <br/>
         <strong>Si quieres saber más, por favor contacta conmigo en la sección Contact</strong>
         <br/><strong>If you want to know more, please contact to me in the Contact section</strong>
