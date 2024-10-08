@@ -10,8 +10,9 @@ export default function() { // props are like parameters
       <div className="left-column"
         style={{
           background: "url(" + propfilePicture + ") no-repeat",
-          backgroundSize: "cover",
-          backgroundPosition: "center"
+        //   backgroundSize: "cover",
+        //   backgroundPosition: "center"
+            backgroundSize: "contain"
         }}
       />
       <div className="right-column">
